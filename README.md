@@ -1,2 +1,2 @@
 # CRUD
-![image](https://github.com/user-attachments/assets/d8fee91f-fbae-4522-8777-b581db7f2fa5)
+![image](https://github.com/user-attachments/assets/60765783-0a84-4b5e-a965-81d13c47636c)
